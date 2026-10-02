@@ -1,0 +1,9 @@
+{
+  "name": "guillaumemarcq.github.io",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-articles.mjs",
+    "test": "node --test \"scripts/*.test.mjs\""
+  }
+}
